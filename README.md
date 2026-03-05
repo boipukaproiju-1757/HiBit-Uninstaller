@@ -1,1 +1,1 @@
-# HiBit
+# HiBit-Uninstaller
